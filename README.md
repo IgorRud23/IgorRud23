@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IgorRud23
-- 👀 I’m interested in coding, photography, content creating, sport, mental health, music.   
-- 🌱 I’m currently learning HTML5, CSS, JS, Atom.
-- 💞️ I’m looking to collaborate on JS, HTML5, CSS, Atom.
+- 👋 Hi, I’m @IgorRud23, also known as Igor Rudenko
+- 👀 I’m interested in coding, photography, content creating, sport, mental health, music  
+- 🌱 I’m currently learning HTML5, CSS, JS, Atom
+- 💞️ I’m looking to collaborate on JS, HTML5, CSS, Atom
 - 📫 How to reach me dm me or true the email rud.igor23@gmail.com
 
 <!---
